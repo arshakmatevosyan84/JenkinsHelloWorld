@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, My Dear World!"); 
+        System.out.println("Hello, My lovely World!"); 
     }
 }
 
